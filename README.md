@@ -1,12 +1,6 @@
 # SQL Exercises
 ## This repo contains training excercises for writing SQL queries using claims databases.
-## Series #1
-Suppose that we are interested in learning about medical and pharmacy utilization and health
-outcomes for UHC Medicare members that are new users of the drug, lisinopril.
-Data sources required:
-* df.member - enrollment data by member and month
-* df.pharmacy_claim
-* df.medical_claim
+
 The following exercises are intended to be completed in order. There are many different
 correct solutions to each exercise. The solutions that are provided in this repo were written to
 be as readable, efficient, and portable as possible.
